@@ -20,5 +20,5 @@ Its purpose is to filter in a small base of cars the cars to search by brand, ye
 
 ## Authors ✒️
 
-* **Seijo Lucas** - *JavaScript* - [Carmelitu](https://github.com/Carmelitu)
+* **Lucas Seijo** - *JavaScript* - [Carmelitu](https://github.com/Carmelitu)
 * **Juan Pablo De La Torre Valdez (Teacher)** - *CSS / HTML* - [Código con Juan](https://codigoconjuan.com/)
