@@ -4,7 +4,7 @@
 
 Check it out Here: https://buscador-autos-carmelitu.netlify.app/
 
-Project made for a JavaScript course on Udemy. The code is in Spanish and its purpose is to operate a shopping cart. I just did the script. HTML and CSS are delivered already finalized by the teacher.
+Project made for a JavaScript course on Udemy. HTML and CSS are delivered already finalized by the teacher.
 
 Its purpose is to filter in a small base of cars the cars to search by brand, year, price, etc. And it returns a message in case of no results.
 
